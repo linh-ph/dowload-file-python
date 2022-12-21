@@ -1,11 +1,11 @@
 # dowload-file-python
 
-#create environment
+# create environment
 python3 -m -venv venv
 
-#run simulator
+# run simulator
 source venv/bin/activate
 
-#install package 
+# install package 
 pip install request
 pip install csv
